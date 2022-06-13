@@ -26,7 +26,7 @@ O desafio proposto pelo projeto era desenvolver uma landingPage onde houvesse a 
 
 ## 🌎 Como acessar o projeto
 
-- [Link do Projeto Deploy](https://landingpage-lojinha.surge.sh/)
+- [Link para o site](https://landingpage-lojinha.surge.sh/)
 
 ## 🚀 Tecnologias utilizadas
 
