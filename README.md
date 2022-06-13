@@ -3,6 +3,12 @@
 O projeto **Lojinha** foi desenvolvido com o intuito de trinar a estilização utilizando styledComponents
 
 
+# Imagens do Projeto
+![Captura de tela 2022-06-13 131339](https://user-images.githubusercontent.com/69260762/173399663-5b00a4d3-a648-4ae0-83ba-7e29744754cd.png)
+![Captura de tela 2022-06-13 131358](https://user-images.githubusercontent.com/69260762/173399680-a1232c25-8133-48cf-a625-2b4741ee6136.png)
+![Captura de tela 2022-06-13 131419](https://user-images.githubusercontent.com/69260762/173399621-dfd95a6f-7c51-4020-9bd0-f7271ca37dc0.png)
+
+
 
 # Índice
 
